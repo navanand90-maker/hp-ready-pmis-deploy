@@ -5,5 +5,5 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   // IMPORTANT: Change 'hp-ready-pmis' to your actual GitHub repo name
-  base: '/hp-ready-pmis/',
+  base: '/hp-ready-pmis-deploy/',
 })
